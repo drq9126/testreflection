@@ -1,0 +1,5 @@
+    It's very useful for me to learn FC and diff command, when using this two commands
+,I can easily checkout the difference between two files.It' more directly!
+    From long to see, when we could review all version in our file's history, we can manage our files more easily
+,and more efficiency.
+	It's more clear to make a commit by logical than by an fixed interval, but for someone lazy, commit by interval will help you to remember to do so.
